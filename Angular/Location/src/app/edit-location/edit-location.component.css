@@ -1,3 +1,9 @@
 .pink{color: #E91557};
 .yellow{color:#FFC000
 }
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
