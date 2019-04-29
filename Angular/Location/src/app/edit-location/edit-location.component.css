@@ -1,9 +1,17 @@
-.pink{color: #E91557};
+.pink{background-color: #E91557};
 .yellow{color:#FFC000
 }
-body {
+div {
     text-align: center;
+    width: 70px;
+height: 300px;
+flex-wrap: wrap;
+
+align-content: center;
 }
 form {
     display: inline-block;
 }
+
+
+ 

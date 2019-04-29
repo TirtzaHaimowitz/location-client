@@ -1,4 +1,4 @@
-<div>
+<div class="example-container" >
 <mat-form-field>
   <mat-label>מוצא</mat-label>
 <input matInput  type="text" name="source" [(ngModel)]="source">
@@ -7,5 +7,7 @@
   <mat-label>יעד</mat-label>
 <input matInput  type="text" name="target" [(ngModel)]="destination">
 </mat-form-field>
-<button mat-stroked-button (click)="getDistance()" >הצג את המרחק</button>
+
+<button mat-stroked-button (click)="getDistance()" class="pink">הצג את המרחק</button>
+
 </div>

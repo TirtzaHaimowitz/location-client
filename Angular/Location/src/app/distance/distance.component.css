@@ -1,4 +1,17 @@
-body{background-color: black}
-.pink{color: #E91557};
-.yellow{color:#FFC000
+div{background-color: rgb(197, 40, 40);
+    text-align: center;
+
+flex-wrap: wrap;
+
+align-content: center;}
+pink{color: #E91557;
+font-family: Arial, Helvetica, sans-serif;};
+yellow{color:#FFC000;
+    font-family: Arial, Helvetica, sans-serif;   
 };
+#white{color: white;
+    font-family: Arial, Helvetica, sans-serif;}
+
+form {
+    display: inline-block;
+}
